@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<!--DVD Profiler Collection Export-->
+<Collection>
+  <DVD>
+    <ProfileTimestamp>2008-02-29T15:47:00.000Z</ProfileTimestamp>
+    <ID>0094637952290.4</ID>
+    <MediaTypes>
+      <DVD>true</DVD>
+      <HDDVD>false</HDDVD>
+      <BluRay>false</BluRay>
+    </MediaTypes>
+    <UPC>0-094637-952290</UPC>
+    <CollectionNumber>1024</CollectionNumber>
+    <CollectionType>DVD</CollectionType>
+    <Title>Iron Maiden: Live After Death</Title>
+    <DistTrait/>
+    <OriginalTitle/>
+    <CountryOfOrigin>United States</CountryOfOrigin>
+    <ProductionYear>1985</ProductionYear>
+    <Released>2008-02-04</Released>
+    <RunningTime>99</RunningTime>
+    <RatingSystem>Film</RatingSystem>
+    <Rating>NR</Rating>
+    <RatingAge>0</RatingAge>
+    <RatingVariant>1</RatingVariant>
+    <CaseType>Keep Case</CaseType>
+    <Genres>
+      <Genre>Music</Genre>
+    </Genres>
+    <Regions/>
+    <Format>
+      <FormatAspectRatio>1.33</FormatAspectRatio>
+      <FormatVideoStandard>PAL</FormatVideoStandard>
+      <FormatLetterBox>false</FormatLetterBox>
+      <FormatPanAndScan>false</FormatPanAndScan>
+      <FormatFullFrame>true</FormatFullFrame>
+      <Format16X9>false</Format16X9>
+      <FormatDualSided>false</FormatDualSided>
+      <FormatDualLayered>true</FormatDualLayered>
+    </Format>
+    <Features>
+      <FeatureSceneAccess>true</FeatureSceneAccess>
+      <FeatureCommentary>false</FeatureCommentary>
+      <FeatureTrailer>false</FeatureTrailer>
+      <FeaturePhotoGallery>true</FeaturePhotoGallery>
+      <FeatureDeletedScenes>false</FeatureDeletedScenes>
+      <FeatureMakingOf>true</FeatureMakingOf>
+      <FeatureProductionNotes>false</FeatureProductionNotes>
+      <FeatureGame>false</FeatureGame>
+      <FeatureDVDROMContent>false</FeatureDVDROMContent>
+      <FeatureMultiAngle>false</FeatureMultiAngle>
+      <FeatureMusicVideos>true</FeatureMusicVideos>
+      <FeatureInterviews>false</FeatureInterviews>
+      <FeatureStoryboardComparisons>false</FeatureStoryboardComparisons>
+      <FeatureOuttakes>false</FeatureOuttakes>
+      <FeatureClosedCaptioned>false</FeatureClosedCaptioned>
+      <FeatureTHXCertified>false</FeatureTHXCertified>
+      <FeaturePIP>false</FeaturePIP>
+      <FeatureBDLive>false</FeatureBDLive>
+      <FeatureBonusTrailers>false</FeatureBonusTrailers>
+      <FeatureDigitalCopy>false</FeatureDigitalCopy>
+      <OtherFeatures/>
+    </Features>
+    <Studios>
+      <Studio>EMI Records</Studio>
+    </Studios>
+    <MediaCompanies/>
+    <Audio>
+      <AudioTrack>
+        <AudioContent>Music Only</AudioContent>
+        <AudioFormat>Dolby Digital</AudioFormat>
+        <AudioChannels>5.1</AudioChannels>
+      </AudioTrack>
+      <AudioTrack>
+        <AudioContent>Music Only</AudioContent>
+        <AudioFormat>PCM</AudioFormat>
+        <AudioChannels>2-Channel Stereo</AudioChannels>
+      </AudioTrack>
+    </Audio>
+    <Subtitles/>
+    <SRP DenominationType="GBP" DenominationDesc="Great Britain (Pound)" FormattedValue="£16.99">16.99</SRP>
+    <Actors>
+      <Actor FirstName="Bruce" MiddleName="" LastName="Dickinson" BirthYear="0" Role="Vocals" CreditedAs="" Voice="false" Uncredited="false"/>
+      <Actor FirstName="Dave" MiddleName="" LastName="Murray" BirthYear="0" Role="Lead Guitar" CreditedAs="" Voice="false" Uncredited="false"/>
+      <Actor FirstName="Adrian" MiddleName="" LastName="Smith" BirthYear="0" Role="Lead Guitar" CreditedAs="" Voice="false" Uncredited="false"/>
+      <Actor FirstName="Steve" MiddleName="" LastName="Harris" BirthYear="1957" Role="Bass" CreditedAs="" Voice="false" Uncredited="false"/>
+      <Actor FirstName="Nicko" MiddleName="" LastName="McBrain" BirthYear="0" Role="Drums" CreditedAs="" Voice="false" Uncredited="false"/>
+    </Actors>
+    <Credits>
+      <Credit FirstName="Jim" MiddleName="" LastName="Yukich" BirthYear="0" CreditType="Direction" CreditSubtype="Director" CreditedAs=""/>
+      <Credit FirstName="Rod" MiddleName="" LastName="Smallwood" BirthYear="0" CreditType="Production" CreditSubtype="Executive Producer" CreditedAs="Rodney Smallwallet"/>
+      <Credit FirstName="Andy" MiddleName="" LastName="Taylor" BirthYear="0" CreditType="Production" CreditSubtype="Executive Producer" CreditedAs="&quot;White-Rum&quot; Taylor"/>
+      <Credit FirstName="Tammara" MiddleName="" LastName="Wells" BirthYear="0" CreditType="Production" CreditSubtype="Producer" CreditedAs=""/>
+      <Credit FirstName="Daniel" MiddleName="" LastName="Pearl" BirthYear="0" CreditType="Cinematography" CreditSubtype="Director of Photography" CreditedAs=""/>
+      <Credit FirstName="Patrick" MiddleName="" LastName="Couchois" BirthYear="0" CreditType="Film Editing" CreditSubtype="Film Editor" CreditedAs=""/>
+      <Credit FirstName="Doug" MiddleName="" LastName="Hall" BirthYear="0" CreditType="Sound" CreditSubtype="Sound Re-Recording Mixer" CreditedAs=""/>
+      <Credit FirstName="Martin" MiddleName="" LastName="Birch" BirthYear="0" CreditType="Sound" CreditSubtype="Sound Re-Recording Mixer" CreditedAs=""/>
+    </Credits>
+    <Overview>DISC ONE
+LIVE AFTER DEATH
+Live After Death concert with Stereo and Dolby Digital 5.1 Audio (90 mins)
+Set List - 
+Churchill Speech/Aces High
+2 Minutes To Midnight
+The Trooper
+Revelations
+Flight Of Icarus
+Rime Of The Ancient Mariner
+Powerslave
+Number Of The Beast
+Hallowed Be Thy Name
+Iron Maiden
+Run To The Hills
+Running Free
+Sanctuary
+
+In august 1984 Iron Maiden embarked on their longest tour ever, 193 concerts around the planet, playing in over a hundred cities and to over a million fans in North America alone. For this the band had created their most theatrical show to date with a spectacular Egyptian themed stage set based on the band&apos;s critically acclaimed &quot;Powerslave&quot; album which had been released earlier that year. After four previous studio albums and extensive touring for the preceding five years the band decided it was time to record a live show, and this, in 1985, became the legendary LIVE AFTER DEATH full concert video and vinyl live album.
+
+The stunning live performance was recorded on 35mm film over a four night run at Long Beach Arena, Los Angeles, and captures all the passion, energy and spectacle of an Iron Maiden show. With new technology greatly enhancing both sound and vision, this is now available here for the first time ever on DVD and with 5.1 surround soundtrack, providing a fitting testimony to the band&apos;s long held status as one of the worlds most exciting live bands.
+
+The Second Disc runs for well over three hours and opens with the Part 2 of the &apos;History of Iron Maiden&apos; series. This entertaining hour long feature is a revealing and intimate account from the band, producer, crew and management of the creative processes involved in the writing and recording of &quot;Powerslave&quot; along with the planning, set building and execution of this phenomenal tour, aptly entitled the &quot;World Slavery Tour&quot;.
+
+Special extras include Behind the Iron Curtain, a full length documentary of the remarkable story of Iron Maiden becoming the first major band from the West to play large arenas in the then Communist Eastern Bloc at the height of the Cold War. A further bonus is extensive highlights from the bands performance at the inaugural Rock in Rio in 1985 in front of an estimated 350,000 audience from all over Brazil and South America, their largest ever attendance at a single show. &apos;Ello Texas gives further insight into touring in the USA with live footage of the band&apos;s concert in San Antonio and further interview footage at the Alamo.
+
+With an additional comprehensive collection of photo and artwork galleries, promo videos and tour programme from this period, the LIVE AFTER DEATH Double DVD package, with almost five hours of footage, is the definitive account of a pivotal time in the band&apos;s career and a &apos;must&apos; for any fan of Iron Maiden or Metal. &quot;Scream for me Long Beach!!&quot;</Overview>
+    <EasterEggs/>
+    <Discs>
+      <Disc>
+        <DescriptionSideA>Main Feature</DescriptionSideA>
+        <DescriptionSideB/>
+        <DiscIDSideA>D0D11562FC9E405E</DiscIDSideA>
+        <DiscIDSideB/>
+        <LabelSideA>3795229</LabelSideA>
+        <LabelSideB/>
+        <DualLayeredSideA>true</DualLayeredSideA>
+        <DualLayeredSideB>false</DualLayeredSideB>
+        <DualSided>false</DualSided>
+        <Location/>
+        <Slot/>
+      </Disc>
+      <Disc>
+        <DescriptionSideA>Bonus Materials</DescriptionSideA>
+        <DescriptionSideB/>
+        <DiscIDSideA>CD3EB136458F5B05</DiscIDSideA>
+        <DiscIDSideB/>
+        <LabelSideA>3795229</LabelSideA>
+        <LabelSideB/>
+        <DualLayeredSideA>true</DualLayeredSideA>
+        <DualLayeredSideB>false</DualLayeredSideB>
+        <DualSided>false</DualSided>
+        <Location/>
+        <Slot/>
+      </Disc>
+    </Discs>
+    <SortTitle>Iron Maiden: Live After Death</SortTitle>
+    <LastEdited>2009-05-13T20:05:15.000Z</LastEdited>
+    <WishPriority>0</WishPriority>
+    <CountAs>1</CountAs>
+    <PurchaseInfo>
+      <PurchasePrice DenominationType="EUR" DenominationDesc="Europe (Euro)" FormattedValue="€11.99">11.99</PurchasePrice>
+      <PurchasePlace>play.com</PurchasePlace>
+      <PurchasePlaceType>O</PurchasePlaceType>
+      <PurchasePlaceWebsite>www.play.com</PurchasePlaceWebsite>
+      <PurchaseDate>2009-05-13</PurchaseDate>
+    </PurchaseInfo>
+    <Review Film="0" Video="0" Audio="0" Extras="0"/>
+    <MediaBanners Front="Automatic" Back="Off"/>
+    <Events/>
+    <BoxSet>
+      <Parent/>
+      <Contents/>
+    </BoxSet>
+    <LoanInfo>
+      <Loaned>false</Loaned>
+    </LoanInfo>
+    <Notes/>
+    <Tags/>
+    <Locks>
+      <Entire>false</Entire>
+      <Covers>false</Covers>
+      <Title>false</Title>
+      <MediaType>false</MediaType>
+      <Overview>false</Overview>
+      <Regions>false</Regions>
+      <Genres>false</Genres>
+      <SRP>true</SRP>
+      <Studios>false</Studios>
+      <DiscInformation>false</DiscInformation>
+      <Cast>false</Cast>
+      <Crew>false</Crew>
+      <Features>false</Features>
+      <AudioTracks>false</AudioTracks>
+      <Subtitles>false</Subtitles>
+      <EasterEggs>false</EasterEggs>
+      <RunningTime>false</RunningTime>
+      <ReleaseDate>false</ReleaseDate>
+      <ProductionYear>false</ProductionYear>
+      <CaseType>false</CaseType>
+      <VideoFormats>false</VideoFormats>
+      <Rating>false</Rating>
+    </Locks>
+  </DVD>
+  <DVD>
+    <ProfileTimestamp>2007-01-01</ProfileTimestamp>
+    <ID>011891980449</ID>
+    <MediaTypes>
+      <DVD>true</DVD>
+      <HDDVD>false</HDDVD>
+      <BluRay>false</BluRay>
+    </MediaTypes>
+    <UPC>011891-980449</UPC>
+    <CollectionNumber>942</CollectionNumber>
+    <CollectionType>DVD</CollectionType>
+    <Title>Crippled Masters</Title>
+    <DistTrait/>
+    <OriginalTitle/>
+    <CountryOfOrigin/>
+    <ProductionYear>1984</ProductionYear>
+    <Released>2003-01-01</Released>
+    <RunningTime>95</RunningTime>
+    <RatingSystem>Film</RatingSystem>
+    <Rating>R</Rating>
+    <RatingAge>17</RatingAge>
+    <RatingVariant>0</RatingVariant>
+    <CaseType>Keep Case</CaseType>
+    <Genres>
+      <Genre>Martial Arts</Genre>
+    </Genres>
+    <Regions>
+      <Region>1</Region>
+    </Regions>
+    <Format>
+      <FormatAspectRatio>1.33</FormatAspectRatio>
+      <FormatVideoStandard>NTSC</FormatVideoStandard>
+      <FormatLetterBox>false</FormatLetterBox>
+      <FormatPanAndScan>true</FormatPanAndScan>
+      <FormatFullFrame>false</FormatFullFrame>
+      <Format16X9>false</Format16X9>
+      <FormatDualSided>false</FormatDualSided>
+      <FormatDualLayered>false</FormatDualLayered>
+    </Format>
+    <Features>
+      <FeatureSceneAccess>true</FeatureSceneAccess>
+      <FeatureCommentary>false</FeatureCommentary>
+      <FeatureTrailer>false</FeatureTrailer>
+      <FeaturePhotoGallery>false</FeaturePhotoGallery>
+      <FeatureDeletedScenes>false</FeatureDeletedScenes>
+      <FeatureMakingOf>false</FeatureMakingOf>
+      <FeatureProductionNotes>true</FeatureProductionNotes>
+      <FeatureGame>false</FeatureGame>
+      <FeatureDVDROMContent>false</FeatureDVDROMContent>
+      <FeatureMultiAngle>false</FeatureMultiAngle>
+      <FeatureMusicVideos>false</FeatureMusicVideos>
+      <FeatureInterviews>false</FeatureInterviews>
+      <FeatureStoryboardComparisons>false</FeatureStoryboardComparisons>
+      <FeatureOuttakes>false</FeatureOuttakes>
+      <FeatureClosedCaptioned>false</FeatureClosedCaptioned>
+      <FeatureTHXCertified>false</FeatureTHXCertified>
+      <FeaturePIP>false</FeaturePIP>
+      <FeatureBDLive>false</FeatureBDLive>
+      <FeatureBonusTrailers>false</FeatureBonusTrailers>
+      <FeatureDigitalCopy>false</FeatureDigitalCopy>
+      <OtherFeatures/>
+    </Features>
+    <Studios>
+      <Studio>Diamond Entertainment</Studio>
+    </Studios>
+    <MediaCompanies/>
+    <Audio>
+      <AudioTrack>
+        <AudioContent>English</AudioContent>
+        <AudioFormat>Dolby Digital</AudioFormat>
+        <AudioChannels>5.1</AudioChannels>
+      </AudioTrack>
+    </Audio>
+    <Subtitles/>
+    <SRP DenominationType="USD" DenominationDesc="United States (Dollar)" FormattedValue="$6.99">6.99</SRP>
+    <Actors>
+      <Actor FirstName="Jackie" MiddleName="" LastName="Conn" BirthYear="0" Role="Crippled Master" CreditedAs="" Voice="false" Uncredited="false"/>
+      <Actor FirstName="Frankie" MiddleName="" LastName="Shum" BirthYear="0" Role="Crippled Master" CreditedAs="" Voice="false" Uncredited="false"/>
+    </Actors>
+    <Credits>
+      <Credit FirstName="Joe" MiddleName="" LastName="Law" BirthYear="0" CreditType="Direction" CreditSubtype="Director" CreditedAs=""/>
+    </Credits>
+    <Overview>Two men skilled in the arts of Kung-Fu are betrayed by their master and crippled for life, one left with no arms and the other with no legs. Despite their obvious disadvantages, they learn to combine their martial arts skills and seek revenge against the evil master.</Overview>
+    <EasterEggs/>
+    <Discs/>
+    <SortTitle>Crippled Masters</SortTitle>
+    <LastEdited>2009-01-09T18:18:32.000Z</LastEdited>
+    <WishPriority>0</WishPriority>
+    <CountAs>1</CountAs>
+    <PurchaseInfo>
+      <PurchasePrice DenominationType="USD" DenominationDesc="United States (Dollar)" FormattedValue="$0.00">0</PurchasePrice>
+      <PurchasePlace/>
+      <PurchasePlaceType/>
+      <PurchasePlaceWebsite/>
+      <PurchaseDate>2009-01-09</PurchaseDate>
+    </PurchaseInfo>
+    <Review Film="0" Video="0" Audio="0" Extras="0"/>
+    <MediaBanners Front="Automatic" Back="Off"/>
+    <Events/>
+    <BoxSet>
+      <Parent/>
+      <Contents/>
+    </BoxSet>
+    <LoanInfo>
+      <Loaned>false</Loaned>
+    </LoanInfo>
+    <Notes/>
+    <Tags/>
+    <Locks>
+      <Entire>false</Entire>
+      <Covers>false</Covers>
+      <Title>false</Title>
+      <MediaType>false</MediaType>
+      <Overview>false</Overview>
+      <Regions>false</Regions>
+      <Genres>false</Genres>
+      <SRP>true</SRP>
+      <Studios>false</Studios>
+      <DiscInformation>false</DiscInformation>
+      <Cast>false</Cast>
+      <Crew>false</Crew>
+      <Features>false</Features>
+      <AudioTracks>false</AudioTracks>
+      <Subtitles>false</Subtitles>
+      <EasterEggs>false</EasterEggs>
+      <RunningTime>false</RunningTime>
+      <ReleaseDate>false</ReleaseDate>
+      <ProductionYear>false</ProductionYear>
+      <CaseType>false</CaseType>
+      <VideoFormats>false</VideoFormats>
+      <Rating>false</Rating>
+    </Locks>
+  </DVD></Collection>

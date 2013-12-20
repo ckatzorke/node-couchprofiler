@@ -53,11 +53,11 @@ var collectionparser = (function() {
 var listtransformer = (function() {
 	return {
 		"transform": function(json, callback) {
-			var list = new Array();
+			var list = [];
 			var media;
 			var count = json.Collection.DVD.length;
 			var current = 0;
-			util.log("Parsing " + +" entries...");
+			util.log("Parsing " + count +" entries...");
 			json.Collection.DVD.forEach(function(dvd) {
 				util.log(++current + "/" + count);
 				media = {};
@@ -67,7 +67,7 @@ var listtransformer = (function() {
 				media.title = dvd.Title[0];
 				media.sortTitle = dvd.SortTitle[0];
 				media.overview = dvd.Overview[0];
-				media.actors = new Array();
+				media.actors = [];
 				if (typeof(dvd.Actors[0].Actor) !== "undefined") {
 					dvd.Actors[0].Actor.forEach(function(actor) {
 						media.actors.push(actor.$);
@@ -79,7 +79,7 @@ var listtransformer = (function() {
 						media.genres = genre.Genre;
 					}
 				});
-				media.mediaType = new Array();
+				media.mediaType = [];
 				if (dvd.MediaTypes[0].DVD[0] === "true") {
 					media.mediaType.push("DVD");
 				}
@@ -116,7 +116,7 @@ var listtransformer = (function() {
 				callback(null, list);
 			}
 		}
-	}
+	};
 })();
 
 exports.parser = collectionparser;

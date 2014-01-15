@@ -1,4 +1,4 @@
-node-couchprofiler
+node-dvdprofiler
 ============
 
 A node.js project to parse a dvdprofiler collector.xml exported file and crunch it.
@@ -8,6 +8,6 @@ A node.js project to parse a dvdprofiler collector.xml exported file and crunch 
 - grunt
 - mocha
 - jshint
-- express
-- couchdb
+- express / koa
+- couchdb / neo4j
 - bootstrap3

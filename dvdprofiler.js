@@ -9,17 +9,9 @@ var collectionparser = (function() {
 	return {
 		"parseFile": function(fileName, callback) {
 			util.log('Parsing ' + fileName);
-			fs.readFile(fileName, function(err, data) {
-				if (err) {
-					if (callback !== undefined) {
-						callback(err);
-					} else {
-						throw err;
-					}
-				} else {
-					collectionparser.parseString(data, callback);
-				}
-			});
+			//todo encoding, xml is 1252
+			var content = fs.readFileSync(fileName);
+			collectionparser.parseString(content.toString('utf8'), callback);
 		},
 		"parseString": function(xmlString, callback) {
 			var parser = new xml2js.Parser();
@@ -57,7 +49,7 @@ var listtransformer = (function() {
 			var media;
 			var count = json.Collection.DVD.length;
 			var current = 0;
-			util.log("Parsing " + count +" entries...");
+			util.log("Parsing " + count + " entries...");
 			json.Collection.DVD.forEach(function(dvd) {
 				util.log(++current + "/" + count);
 				media = {};

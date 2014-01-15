@@ -4,7 +4,7 @@ module.exports = function(grunt) {
   grunt.initConfig({
     pkg: grunt.file.readJSON('package.json'),
     jshint: {
-      files: ['Gruntfile.js', 'app.js', 'couchprofiler.js', 'test/**/*.js']
+      files: ['Gruntfile.js', 'app.js', 'dvdprofiler.js', 'test/**/*.js']
     },
     // Configure a mochaTest task
     mochaTest: {

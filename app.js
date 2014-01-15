@@ -1,14 +1,14 @@
-var couchprofiler = require('./couchprofiler');
+var dvdprofiler = require('./dvdprofiler');
 var db = require('nano')('http://localhost:5984/todos');
 var util = require('util');
 
 var file = "./data/collection.xml";
-couchprofiler.parser.parseFile(file, function(err, result) {
+dvdprofiler.parser.parseFile(file, function(err, result) {
 	if (err) {
 		util.log(err);
 		return;
 	}
-	couchprofiler.transformer.transform(result, function(err, transformed) {
+	dvdprofiler.transformer.transform(result, function(err, transformed) {
 		if (err) {
 			util.log(err);
 			return;

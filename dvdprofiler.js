@@ -1,6 +1,7 @@
 var xml2js = require('xml2js');
 var fs = require('fs');
 var util = require('util');
+var iconv = require('iconv-lite');
 
 /**
  * The parser, generates a raw list of parsed JSON from an exported collection.xml
@@ -8,10 +9,21 @@ var util = require('util');
 var collectionparser = (function() {
 	return {
 		"parseFile": function(fileName, callback) {
-			util.log('Parsing ' + fileName);
-			//todo encoding, xml is 1252
-			var content = fs.readFileSync(fileName);
-			collectionparser.parseString(content.toString('utf8'), callback);
+			util.log('Loading ' + fileName);
+			fs.readFile(fileName, function(err, buf){
+				if (err) {
+					if (callback) {
+						callback(err);
+					} else {
+						throw err;
+					}
+				} else {
+					util.log('Loaded... Converting content');
+					var str = iconv.decode(buf, 'win1252');
+					util.log('Conversion done... Parsing');
+					collectionparser.parseString(str, callback);
+				}
+			});
 		},
 		"parseString": function(xmlString, callback) {
 			var parser = new xml2js.Parser();
@@ -51,7 +63,7 @@ var listtransformer = (function() {
 			var current = 0;
 			util.log("Parsing " + count + " entries...");
 			json.Collection.DVD.forEach(function(dvd) {
-				util.log(++current + "/" + count);
+				//util.log(++current + "/" + count);
 				media = {};
 
 				media.id = dvd.ID[0];
